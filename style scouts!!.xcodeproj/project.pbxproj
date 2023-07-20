@@ -7,18 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A1B85842A698EFA00B991CB /* asia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A1B85832A698EFA00B991CB /* asia.swift */; };
+		5A1B85862A69984C00B991CB /* europe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A1B85852A69984C00B991CB /* europe.swift */; };
+		5A1B85882A699A2E00B991CB /* africa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A1B85872A699A2E00B991CB /* africa.swift */; };
+		5A1B858C2A699B6500B991CB /* samerica.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A1B858B2A699B6500B991CB /* samerica.swift */; };
 		5A7D89D82A698293006F9416 /* style_scouts__App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A7D89D72A698293006F9416 /* style_scouts__App.swift */; };
 		5A7D89DA2A698293006F9416 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A7D89D92A698293006F9416 /* ContentView.swift */; };
 		5A7D89DC2A698295006F9416 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A7D89DB2A698295006F9416 /* Assets.xcassets */; };
 		5A7D89DF2A698295006F9416 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A7D89DE2A698295006F9416 /* Preview Assets.xcassets */; };
+		5A7D89E82A6989B7006F9416 /* america.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A7D89E72A6989B7006F9416 /* america.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A1B85832A698EFA00B991CB /* asia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asia.swift; sourceTree = "<group>"; };
+		5A1B85852A69984C00B991CB /* europe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = europe.swift; sourceTree = "<group>"; };
+		5A1B85872A699A2E00B991CB /* africa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = africa.swift; sourceTree = "<group>"; };
+		5A1B858B2A699B6500B991CB /* samerica.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = samerica.swift; sourceTree = "<group>"; };
 		5A7D89D42A698293006F9416 /* style scouts!!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "style scouts!!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A7D89D72A698293006F9416 /* style_scouts__App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = style_scouts__App.swift; sourceTree = "<group>"; };
 		5A7D89D92A698293006F9416 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5A7D89DB2A698295006F9416 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5A7D89DE2A698295006F9416 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5A7D89E72A6989B7006F9416 /* america.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = america.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +63,11 @@
 			children = (
 				5A7D89D72A698293006F9416 /* style_scouts__App.swift */,
 				5A7D89D92A698293006F9416 /* ContentView.swift */,
+				5A7D89E72A6989B7006F9416 /* america.swift */,
+				5A1B85832A698EFA00B991CB /* asia.swift */,
+				5A1B85852A69984C00B991CB /* europe.swift */,
+				5A1B85872A699A2E00B991CB /* africa.swift */,
+				5A1B858B2A699B6500B991CB /* samerica.swift */,
 				5A7D89DB2A698295006F9416 /* Assets.xcassets */,
 				5A7D89DD2A698295006F9416 /* Preview Content */,
 			);
@@ -138,7 +153,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A7D89DA2A698293006F9416 /* ContentView.swift in Sources */,
+				5A1B85882A699A2E00B991CB /* africa.swift in Sources */,
 				5A7D89D82A698293006F9416 /* style_scouts__App.swift in Sources */,
+				5A1B85862A69984C00B991CB /* europe.swift in Sources */,
+				5A1B858C2A699B6500B991CB /* samerica.swift in Sources */,
+				5A7D89E82A6989B7006F9416 /* america.swift in Sources */,
+				5A1B85842A698EFA00B991CB /* asia.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
