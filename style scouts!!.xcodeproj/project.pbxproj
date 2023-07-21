@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		464F30BA2A6A42D100266130 /* news1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464F30B92A6A42D100266130 /* news1.swift */; };
 		5A1B85842A698EFA00B991CB /* asia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A1B85832A698EFA00B991CB /* asia.swift */; };
 		5A1B85862A69984C00B991CB /* europe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A1B85852A69984C00B991CB /* europe.swift */; };
 		5A1B85882A699A2E00B991CB /* africa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A1B85872A699A2E00B991CB /* africa.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		464F30B92A6A42D100266130 /* news1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = news1.swift; sourceTree = "<group>"; };
 		5A1B85832A698EFA00B991CB /* asia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asia.swift; sourceTree = "<group>"; };
 		5A1B85852A69984C00B991CB /* europe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = europe.swift; sourceTree = "<group>"; };
 		5A1B85872A699A2E00B991CB /* africa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = africa.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				5A7D89E72A6989B7006F9416 /* america.swift */,
 				5A1B85832A698EFA00B991CB /* asia.swift */,
 				5A1B85852A69984C00B991CB /* europe.swift */,
+				464F30B92A6A42D100266130 /* news1.swift */,
 				5A1B85872A699A2E00B991CB /* africa.swift */,
 				5A1B858B2A699B6500B991CB /* samerica.swift */,
 				5A7D89DB2A698295006F9416 /* Assets.xcassets */,
@@ -156,6 +159,7 @@
 				5A1B85882A699A2E00B991CB /* africa.swift in Sources */,
 				5A7D89D82A698293006F9416 /* style_scouts__App.swift in Sources */,
 				5A1B85862A69984C00B991CB /* europe.swift in Sources */,
+				464F30BA2A6A42D100266130 /* news1.swift in Sources */,
 				5A1B858C2A699B6500B991CB /* samerica.swift in Sources */,
 				5A7D89E82A6989B7006F9416 /* america.swift in Sources */,
 				5A1B85842A698EFA00B991CB /* asia.swift in Sources */,

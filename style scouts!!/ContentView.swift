@@ -38,8 +38,8 @@ struct ContentView: View {
                     Text("South America")
                 }
             }
+            .padding()
         }
-        .padding()
     }
     
     
